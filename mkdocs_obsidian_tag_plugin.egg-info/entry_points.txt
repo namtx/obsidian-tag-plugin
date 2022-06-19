@@ -1,0 +1,3 @@
+[mkdocs.plugins]
+mkdocs-obsidian-tag-plugin = mkdocs_obsidian_tag_plugin.plugin:MkdocsObsidianTagPlugin
+

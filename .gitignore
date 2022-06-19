@@ -1,0 +1,4 @@
+./build/
+./dist/
+./mkdocs_obsidian_tag_plugin/__pycache__/
+

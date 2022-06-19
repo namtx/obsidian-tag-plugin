@@ -1,0 +1,1 @@
+mkdocs_obsidian_tag_plugin
